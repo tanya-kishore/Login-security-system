@@ -3,6 +3,7 @@ Login Security System
 Description:
 
 This program implements a simple login security system using C++. Users can register with a username, password, and age, log in using their credentials, and change their passwords if needed.
+
 Features:
 
     User Registration: Allows users to register with a username, password, and age.
